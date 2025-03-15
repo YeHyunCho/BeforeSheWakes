@@ -1,0 +1,527 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.41f1 (46e447368a18) revision 4645959'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Core' Language: 'ko' Physical Memory: 32373 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.41f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/joybb/OneDrive/문서/GitHub/BeforeSheWakes/Before She Wakes
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+61402
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/joybb/OneDrive/문서/GitHub/BeforeSheWakes/Before She Wakes
+C:/Users/joybb/OneDrive/문서/GitHub/BeforeSheWakes/Before She Wakes
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [18668]  Target information:
+
+Player connection [18668]  * "[IP] 121.187.154.53 [Port] 0 [Flags] 2 [Guid] 2484689335 [EditorId] 2484689335 [Version] 1048832 [Id] WindowsEditor(7,SigmaBboy) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [18668]  * "[IP] 192.168.152.1 [Port] 0 [Flags] 2 [Guid] 2484689335 [EditorId] 2484689335 [Version] 1048832 [Id] WindowsEditor(7,SigmaBboy) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [18668]  * "[IP] 192.168.216.1 [Port] 0 [Flags] 2 [Guid] 2484689335 [EditorId] 2484689335 [Version] 1048832 [Id] WindowsEditor(7,SigmaBboy) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [18668] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [18668] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.79 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.41f1 (46e447368a18)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/joybb/OneDrive/문서/GitHub/BeforeSheWakes/Before She Wakes/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 (ID=0x2882)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.7247
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56824
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.41f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002325 seconds.
+- Loaded All Assemblies, in  0.293 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.242 seconds
+Domain Reload Profiling: 534ms
+	BeginReloadAssembly (100ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (119ms)
+		LoadAssemblies (98ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (117ms)
+			TypeCache.Refresh (116ms)
+				TypeCache.ScanAssembly (107ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (242ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (202ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (40ms)
+			ProcessInitializeOnLoadAttributes (108ms)
+			ProcessInitializeOnLoadMethodAttributes (37ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.553 seconds
+Refreshing native plugins compatible for Editor in 1.27 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.538 seconds
+Domain Reload Profiling: 1089ms
+	BeginReloadAssembly (132ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (29ms)
+	RebuildCommonClasses (24ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (354ms)
+		LoadAssemblies (255ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (174ms)
+			TypeCache.Refresh (127ms)
+				TypeCache.ScanAssembly (113ms)
+			BuildScriptInfoCaches (37ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (539ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (412ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (79ms)
+			ProcessInitializeOnLoadAttributes (256ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 1.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 200 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5964 unused Assets / (6.4 MB). Loaded Objects now: 6612.
+Memory consumption went from 157.6 MB to 151.2 MB.
+Total: 17.506000 ms (FindLiveObjects: 1.054600 ms CreateObjectMapping: 0.977400 ms MarkObjects: 7.785000 ms  DeleteObjects: 7.687900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 31969.169845 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Duvet_B.PNG
+  artifactKey: Guid(428a0798c1a0e8843ac4690adc05f61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Duvet_B.PNG using Guid(428a0798c1a0e8843ac4690adc05f61e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1cf4809be9f9484c2d0b4a318b4e4291') in 0.1165668 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.737938 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Debris_B.PNG
+  artifactKey: Guid(a25808164b17c8d4c99a738a0452c65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Debris_B.PNG using Guid(a25808164b17c8d4c99a738a0452c65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b47891ea7dfb83204b252fc4fb0f95ee') in 0.0180949 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.983271 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Grunge_04_Mask.PNG
+  artifactKey: Guid(807b044299a2fc0418c5190bcb163171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Grunge_04_Mask.PNG using Guid(807b044299a2fc0418c5190bcb163171) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '167932f23908fb8c9c794846d1f28fff') in 0.0400431 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 102.116518 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Grunge_01_Mask.PNG
+  artifactKey: Guid(9c2fc73ce5fb9094c8642843a43bdc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Grunge_01_Mask.PNG using Guid(9c2fc73ce5fb9094c8642843a43bdc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9e0475dc630e8a411e16c8ccf9190602') in 0.0138242 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.801842 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Grunge_02_Mask.PNG
+  artifactKey: Guid(0f9861323433a2640a089540283458ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Grunge_02_Mask.PNG using Guid(0f9861323433a2640a089540283458ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a005a39aa0c07192862ab68cde42c4af') in 0.0156652 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.237662 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Plant_B.PNG
+  artifactKey: Guid(c7d8db1009530364ebe1f84a07c9416d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Plant_B.PNG using Guid(c7d8db1009530364ebe1f84a07c9416d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d496171cbe02683c9e74c717968f15f') in 0.0292262 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Plant_R.PNG
+  artifactKey: Guid(2314b0d2325894240b61f0b5d5554278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Plant_R.PNG using Guid(2314b0d2325894240b61f0b5d5554278) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16ba7ec8fbc2c41d0b4ec4318d13b658') in 0.0304783 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.713098 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_05_B.PNG
+  artifactKey: Guid(e094df5959530f94497dcff8e6139de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_05_B.PNG using Guid(e094df5959530f94497dcff8e6139de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d0ce302298e134c3f426078cf99fdfb') in 0.0166567 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.495120 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_13_B.PNG
+  artifactKey: Guid(8235aa0a758934740be07c428937af37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_13_B.PNG using Guid(8235aa0a758934740be07c428937af37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1068e10db90f0786f6c296d825b98de7') in 0.0243158 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.851971 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_09_B.PNG
+  artifactKey: Guid(4ed09f13371d3d64eb976d004d60f4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_09_B.PNG using Guid(4ed09f13371d3d64eb976d004d60f4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f68e71e20d43cf0067db9feb121cf507') in 0.0456641 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.348977 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_08_B.PNG
+  artifactKey: Guid(a579854affbcc44448ad4fcfd1a677c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_08_B.PNG using Guid(a579854affbcc44448ad4fcfd1a677c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ac5c3235d22ef20f84aa283915fe50c5') in 0.0213526 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.966496 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_10_B.PNG
+  artifactKey: Guid(9eabb58639978154aaf84eda62961421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_10_B.PNG using Guid(9eabb58639978154aaf84eda62961421) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '631721f64e8c34fa07942e52bff429e0') in 0.0556756 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.458469 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_11_B.PNG
+  artifactKey: Guid(4b37ebb24da18904c8369cfdde115e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_11_B.PNG using Guid(4b37ebb24da18904c8369cfdde115e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7025634ed833c60223e394cccb1820ad') in 0.0170804 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.728547 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_18_B.PNG
+  artifactKey: Guid(36baa88a8075cee4b8437b8763a0e889) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_18_B.PNG using Guid(36baa88a8075cee4b8437b8763a0e889) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e072465577cb649557c92ade09bc7737') in 0.0392173 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.662452 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_14_B.PNG
+  artifactKey: Guid(a3ccb3205a3c13f4c8af0ad3d739a48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_14_B.PNG using Guid(a3ccb3205a3c13f4c8af0ad3d739a48b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '9c272d77a9f7eb1122e241506ee404da') in 0.0293282 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.102624 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_01_B.PNG
+  artifactKey: Guid(c56a9b440f5fa0046b2133f4373fec26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_01_B.PNG using Guid(c56a9b440f5fa0046b2133f4373fec26) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2b1e0530e04fcaebd5676a8f60afd90a') in 0.0620833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.044703 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_03_B.PNG
+  artifactKey: Guid(88cdfa2031d9acd4287d02a9b6d295f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_03_B.PNG using Guid(88cdfa2031d9acd4287d02a9b6d295f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73410a7df74651771faf6d5b78a90fb3') in 0.0523184 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.458160 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_20_B.PNG
+  artifactKey: Guid(ded8bef558e6ef6499699a4fa1125ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_20_B.PNG using Guid(ded8bef558e6ef6499699a4fa1125ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f51059d57c1abff4290ceca2cb4fffa') in 0.0173214 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.591348 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_22_B.PNG
+  artifactKey: Guid(c91b0d53c36e84945b8a0ed6cbe4442f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_22_B.PNG using Guid(c91b0d53c36e84945b8a0ed6cbe4442f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99a44259474db73e23842c9a2f05c12e') in 0.0117637 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.011031 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_06_B.PNG
+  artifactKey: Guid(cf558c6432041f74c8796bc5754c23b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_06_B.PNG using Guid(cf558c6432041f74c8796bc5754c23b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a52182f6891a92cdc900fbfd314b850b') in 0.0254876 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.504337 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_19_B.PNG
+  artifactKey: Guid(4ea3c102a24af284faa66bf48c5a77fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_19_B.PNG using Guid(4ea3c102a24af284faa66bf48c5a77fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '617c64242e267b5646a3d39eb8aefe1e') in 0.0519114 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.531309 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_07_B.PNG
+  artifactKey: Guid(6f946f28dfaf2614cb057f1667e8999c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_07_B.PNG using Guid(6f946f28dfaf2614cb057f1667e8999c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e14cf1d65ad1b914c1a061ca37852073') in 0.0373761 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.591217 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_21_B.PNG
+  artifactKey: Guid(d1bafe11e1e053c4ab90797dc7455cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_21_B.PNG using Guid(d1bafe11e1e053c4ab90797dc7455cf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1d836a9f7cf362304bdd10bf2549915') in 0.0475478 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.508612 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_17_B.PNG
+  artifactKey: Guid(78f6189bac32cf348b8192c12f5a4ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_17_B.PNG using Guid(78f6189bac32cf348b8192c12f5a4ad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ea7b284e4e609cd7d790a5ffa78ae4c') in 0.0263751 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.794048 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_15_B.PNG
+  artifactKey: Guid(4922376be68d7e140ae07eec0a4ca7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_15_B.PNG using Guid(4922376be68d7e140ae07eec0a4ca7ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c62570357b6c01f949801c4484cff485') in 0.0193636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.544174 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_12_B.PNG
+  artifactKey: Guid(2635eb6d66fddc046a237fea125e366d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_12_B.PNG using Guid(2635eb6d66fddc046a237fea125e366d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fd9b72601cc1aeab50a6b788cf98c20a') in 0.040245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.503935 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_04_B.PNG
+  artifactKey: Guid(35f4bb3274054314881d6ed9081334d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_04_B.PNG using Guid(35f4bb3274054314881d6ed9081334d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '42f2bc88f77f910f5ddf5f86c99089d4') in 0.0326 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.473021 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_02_B.PNG
+  artifactKey: Guid(efb2e9d1240f0e14b94a35803c1d2a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_02_B.PNG using Guid(efb2e9d1240f0e14b94a35803c1d2a2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1eaf94bf732f656ce6212d1093e0854b') in 0.0208074 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.493890 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_16_B.PNG
+  artifactKey: Guid(4ac0395fe8c485146bc0204eeece5b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Poster_16_B.PNG using Guid(4ac0395fe8c485146bc0204eeece5b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'afb441dc22f12dec1106e19715726167') in 0.0281809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.179921 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Sticker_Collection_01_B.PNG
+  artifactKey: Guid(b60863455cfb2d64589bf12f3cfd439d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Sticker_Collection_01_B.PNG using Guid(b60863455cfb2d64589bf12f3cfd439d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '38d72d4135128c86f1597b495fbeb000') in 0.0183497 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.761960 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_DVD_01_B.PNG
+  artifactKey: Guid(21fcbc820561c954491af360dbd9d053) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_DVD_01_B.PNG using Guid(21fcbc820561c954491af360dbd9d053) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '219e98a7842b1858e6bf2376248a10c3') in 0.0504901 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.831214 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_DVD_02_B.PNG
+  artifactKey: Guid(055fbbc83a4c4fb4b859896c5264ce9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_DVD_02_B.PNG using Guid(055fbbc83a4c4fb4b859896c5264ce9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '710dffde2d8d634d280875259008df7c') in 0.031695 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.903885 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Plane_B.PNG
+  artifactKey: Guid(b352beb3dc7d92a4bb63f9e8938a5d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Plane_B.PNG using Guid(b352beb3dc7d92a4bb63f9e8938a5d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5c4904bd518bacdf7d260b2fb7d7f84d') in 0.0199342 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Plane_R.PNG
+  artifactKey: Guid(7e9ef5423720f8a4482da6aab9109879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Plane_R.PNG using Guid(7e9ef5423720f8a4482da6aab9109879) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '73f3ffe2215969c9e162524ea63eaa5b') in 0.0113805 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.642935 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_ScuffMark_01_B.PNG
+  artifactKey: Guid(380dc2ef6efcd3842968992372885356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_ScuffMark_01_B.PNG using Guid(380dc2ef6efcd3842968992372885356) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '859b5226cd27425d0e69d97435380dfd') in 0.0163167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.052700 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Logo_Greentooth_B.PNG
+  artifactKey: Guid(6f991b42a8dd64f4688824f77cf62171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Logo_Greentooth_B.PNG using Guid(6f991b42a8dd64f4688824f77cf62171) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '65a198cb00ee258c68b0d15150b4a1e1') in 0.0139916 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.669326 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_StickerWall_01_B.PNG
+  artifactKey: Guid(99feb4a1f56feaf468978e0d87558f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_StickerWall_01_B.PNG using Guid(99feb4a1f56feaf468978e0d87558f08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '90ed5e563821de6f1835cc011ec84d2f') in 0.021088 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.663224 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_StickerWall_02_B.PNG
+  artifactKey: Guid(1aacbe5088dd2044d9f61d05edb494c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_StickerWall_02_B.PNG using Guid(1aacbe5088dd2044d9f61d05edb494c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5a1867951db7d78d26f5a33e65138be6') in 0.0138766 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.626907 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Tape_01_B.PNG
+  artifactKey: Guid(6ea9700cb8ab48a489bbdf88ff48dd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Tape_01_B.PNG using Guid(6ea9700cb8ab48a489bbdf88ff48dd16) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a0176bab87dd62c40dc69c8fde343957') in 0.0260054 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.442679 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Sticker_Collection_01_Mask.PNG
+  artifactKey: Guid(fd6f41676ee065a4f8c61fc1d81943c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Sticker_Collection_01_Mask.PNG using Guid(fd6f41676ee065a4f8c61fc1d81943c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '34053a3e4778aae31ddc85157d9aa37e') in 0.0252439 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.304789 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Tape_02_B.PNG
+  artifactKey: Guid(1e503ff4cac415b4c8a8a2774e8ddf85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Tape_02_B.PNG using Guid(1e503ff4cac415b4c8a8a2774e8ddf85) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2bf68d7acb25ac57b0b99fb9429e214f') in 0.051842 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.519335 seconds.
+  path: Assets/LeartesStudios/Wills Room/Art/Textures/T_Tape_03_B.PNG
+  artifactKey: Guid(8e6b8a1784b75c04e84693402a911768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LeartesStudios/Wills Room/Art/Textures/T_Tape_03_B.PNG using Guid(8e6b8a1784b75c04e84693402a911768) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd2d72b2edba163ea0923df19faee893d') in 0.0471023 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
